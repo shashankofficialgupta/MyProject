@@ -1,0 +1,195 @@
+.MuiFormControl-root.MuiTextField-root.from.MuiFormControl-fullWidth {
+  margin: auto;
+  min-width: max-content;
+  width: 100%;
+}
+.col-md-6.col-sm-5.col-5 {
+  float: right;
+}
+.col-md-3.col-sm-5.col-5 {
+  display: flex;
+}
+.MuiCardContent-root.cardcontentloc {
+  margin-top: -50rem;
+}
+.MuiFormControl-root.MuiTextField-root.to.MuiFormControl-fullWidth {
+  margin: auto;
+  width: 100%;
+  min-width: max-content;
+}
+.fromtorow.row.row-cols-md-9.row-cols-sm-11.row-cols-11 {
+  margin: auto;
+  justify-content: center;
+  padding-top: 8rem;
+  padding-bottom: 7rem;
+}
+.MuiFormControl-root.MuiTextField-root {
+  margin: auto;
+}
+.quotes {
+  margin: auto;
+}
+.css-2b097c-container {
+  width: 100%;
+}
+.css-yk16xz-control {
+  border-top-width: inherit !important;
+  border-left-width: inherit !important;
+  border-right-width: inherit !important;
+  border-bottom-width: medium !important;
+  border-bottom-color: rgb(156, 81, 182) !important;
+}
+span.css-1okebmr-indicatorSeparator {
+  width: 0px !important;
+}
+.css-1wa3eu0-placeholder {
+  font-weight: 600;
+  font-size: larger;
+}
+svg.css-6q0nyr-Svg {
+  color: rgb(156, 81, 182);
+}
+@media only screen and (min-width:1440px) {
+  .subList2 {
+    display: inherit;
+  }
+  .subList3 {
+    display: none;
+  }
+  .subList4 {
+    display: none;
+  }
+
+  .matches {
+    transition: 0.3s !important;
+    box-shadow: 0 8px 40px -12px rgba(0,0,0,0.3) !important;
+    margin-top: 4% !important;
+    height: 550px;
+    margin: auto;
+    border-radius:4rem !important;
+    width: 70%;
+  }
+  .matches:hover {
+    box-shadow: 0 16px 70px -12.125px rgba(0,0,0,0.3) !important;
+  }
+  form.loginform{
+    float: right;
+    width: 50%;
+  }
+  .MuiCardContent-root.cardcontentloc{
+    margin-top: -119rem;
+  }
+}
+@media only screen and (max-width:1440px) {
+  .subList2 {
+    display: inherit;
+  }
+  .subList3 {
+    display: none;
+  }
+  .subList4 {
+    display: none;
+  }
+
+  .matches {
+    transition: 0.3s !important;
+    box-shadow: 0 8px 40px -12px rgba(0,0,0,0.3) !important;
+    margin-top: 4% !important;
+    height: 550px;
+    margin: auto;
+    border-radius:4rem !important;
+    width: 70%;
+  }
+  .matches:hover {
+    box-shadow: 0 16px 70px -12.125px rgba(0,0,0,0.3) !important;
+  }
+  form.loginform{
+    float: right;
+    width: 50%;
+  }
+  .MuiCardContent-root.cardcontentloc{
+    margin-top: -119rem;
+  }
+}
+@media only screen and (max-width:1024px){
+  .matches{
+    width: 88%;
+  }
+}
+@media only screen and (max-width:860px){
+  .subList2 {
+    display: none;
+  }
+  .subList3 {
+    display: none;
+  }
+  .subList4 {
+    display: none;
+  }
+  .subList5{
+    display: inherit;
+  }
+  .MuiCardContent-root.cardcontentloc{
+    margin-top: -74rem;
+    display: flex;
+    justify-content: center;
+  }
+  .matches{
+    height: 740px;
+    margin-top: 3rem !important;
+  }
+  .colloginform.col-md-10.col-sm-10.col-12{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .row.row-cols-md-8.row-cols-sm-10.row-cols-12{
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .subList2 {
+    display: none;
+  }
+  .subList3 {
+    display: inherit;
+  }
+  .subList4 {
+    display: none;
+  }
+  .matches {
+    height: 819px;
+    width: 100%;
+  }
+  /* .colloginlabel{
+    display: none;
+  } */
+  .row.row-cols-md-8.row-cols-sm-10.row-cols-12{
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .MuiCardContent-root.cardcontentloc{
+    margin-top: -155rem;
+    display: flex;
+  }
+  a.quotes{
+    flex: 0 0 29.666667%;
+    max-width: 29.666667%;  
+  }
+  form.loginform{
+    float: none;
+    margin: auto;
+    width: 77%;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .subList2 {
+    display: none;
+  }
+  .subList3 {
+    display: none;
+  }
+  .subList4 {
+    display: inherit;
+  }
+}
